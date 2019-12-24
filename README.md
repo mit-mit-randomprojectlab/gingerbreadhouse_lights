@@ -5,5 +5,8 @@ Sound-activated lightshow for Circuit Playground Express board (https://learn.ad
 Creates a rainbow lightshow that fades in and out using on-board neopixels when triggered by digital microphone reading on the
 Circuit Playground (easy way to activate is to blow on the board).
 
-Was used as part of a gingerbread house display, but could be used for any purpose.
+Was used as part of a gingerbread house display:
+https://randomprojectlab.blogspot.com/2019/12/arduino-powered-gingerbread-house.html
+
+... but could be used for any purpose.
 
